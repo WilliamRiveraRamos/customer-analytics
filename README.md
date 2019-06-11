@@ -19,9 +19,10 @@ https://www.ibm.com/communities/analytics/watson-analytics-blog/marketing-custom
 
 ### Screenshoot
 ![Movie Express Screenshot](http://velozityweb.com/WRivera/screenshoots/customer-response-yes-no-screen-capture-2.png)
-![Movie Express Screenshot](http://velozityweb.com/WRivera/screenshoots/customer-response-yes-no-screen-capture.png)
 
 This example count and shows the customers that response yes or no.
+![Movie Express Screenshot](http://velozityweb.com/WRivera/screenshoots/customer-response-yes-no-screen-capture.png)
+
 
 Now run the other file **python engaged_cus_by_sales_channel.py**
 ![Movie Express Screenshot](http://velozityweb.com/WRivera/screenshoots/engaged-customers-by-sales-channel.png)
