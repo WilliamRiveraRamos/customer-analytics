@@ -17,7 +17,7 @@ https://www.ibm.com/communities/analytics/watson-analytics-blog/marketing-custom
 5. Type **python cus_response_yes_no.py** on the terminal
 6. Visualize the output data on terminal and in a bar plot or graph
 
-### Screenshoot
+### Screenshoots
 ![Movie Express Screenshot](http://velozityweb.com/WRivera/screenshoots/customer-response-yes-no-screen-capture-2.png)
 
 This example count and shows the customers that response yes or no.
